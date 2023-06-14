@@ -16,3 +16,6 @@ console.log('1')
 console.log('2')
 console.log('3')
 console.log('맛있다!')
+
+console.log('hi')
+console.log('hello')
