@@ -16,3 +16,5 @@ console.log('1')
 console.log('2')
 console.log('3')
 console.log('맛있다!')
+
+console.log('2번째 김치 볶음밥')
